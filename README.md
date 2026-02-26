@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Ameena Aboobacker
 
-<!--
-**ameenaaboobacker/ameenaaboobacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Enthusiast  
+💻 Python | SQL | Power BI | Flask  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+I enjoy working with data and building analytical solutions that turn raw information into meaningful insights.
+
+My interests include Machine Learning, SQL database design, and Business Intelligence dashboards.  
+I am continuously improving my skills in data analytics and AI.
+
+---
+
+## 🛠️ Skills
+
+- Python  
+- SQL (MySQL)  
+- Power BI  
+- Data Cleaning & Preprocessing  
+- Machine Learning  
+- Dashboard Development  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:www.linkedin.com/in/ameena-aboobacker-51b094215
+- Email:ameenaaboobacker@gmail.com
+
+---
+
+✨ Turning data into insights.
+
+
