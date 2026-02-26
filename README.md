@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="100%" src="banner.png" />
+</p>
 
 # Hi 👋 I'm Ameena Aboobacker
 
